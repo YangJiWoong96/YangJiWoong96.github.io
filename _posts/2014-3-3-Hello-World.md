@@ -56,7 +56,8 @@ $$ \sigma ^{2} = \frac{1}{N} \sum_{i=1}^N (X_i - \mu)^2 $$
 
 * 분산의 개념이 이해가 잘 안 간다면 아래 그림을 보자.
 
-![alt text](competition-1.png)
+![competition](https://github.com/user-attachments/assets/481ed0d2-2c48-47c8-80a4-7530a10d8202)
+
 
 * 동일한 평균, 다른 분산을 가진 두 정규분포의 시각화
 
