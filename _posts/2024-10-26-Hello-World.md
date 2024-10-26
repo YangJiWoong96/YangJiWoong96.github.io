@@ -153,9 +153,3 @@ $$ \operatorname{Var}(\bar{X}) = \frac{\sigma^2}{n} $$
 * 이상으로 끝이다. 하고싶은 말이 많으나 글이 너무 무거워질까 두려워 이만 접겠다.
 
 * 파트를 늘리고 챕터를 늘리는 방향으로 앞으로의 이야기를 쭉 풀어내도록 하겠다.
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
